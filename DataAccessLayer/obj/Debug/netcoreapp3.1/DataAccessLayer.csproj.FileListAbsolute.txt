@@ -1,0 +1,12 @@
+C:\AutomobileProject2021\AutoMobileManagementSystem2\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+C:\AutomobileProject2021\AutoMobileManagementSystem2\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.json
+C:\AutomobileProject2021\AutoMobileManagementSystem2\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.dev.json
+C:\AutomobileProject2021\AutoMobileManagementSystem2\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\AutomobileProject2021\AutoMobileManagementSystem2\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\AutomobileProject2021\AutoMobileManagementSystem2\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.AssemblyReference.cache
+C:\AutomobileProject2021\AutoMobileManagementSystem2\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\AutomobileProject2021\AutoMobileManagementSystem2\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+C:\AutomobileProject2021\AutoMobileManagementSystem2\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\AutomobileProject2021\AutoMobileManagementSystem2\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\AutomobileProject2021\AutoMobileManagementSystem2\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\AutomobileProject2021\AutoMobileManagementSystem2\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.genruntimeconfig.cache
